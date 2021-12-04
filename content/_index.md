@@ -7,12 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >
+    content: |
       # Fresh, delicious cookies right to your door
 
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Say hello to EB!!!
     actions:
       - title: See all items
         url: /store
