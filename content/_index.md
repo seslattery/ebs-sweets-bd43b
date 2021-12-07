@@ -8,7 +8,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: |
-      # Fresh, delicious cookies right to your door
+      # *Baking sweets for every happy occasion! *
 
       Say hello to EB!!!
     actions:
