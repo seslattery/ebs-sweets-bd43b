@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '4'
-price: '24.99'
+price: '30.00'
 title: Variety Pack
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/plant4.jpg
