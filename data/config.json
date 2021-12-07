@@ -7,7 +7,7 @@
     "bg_image_primary": "/images/header.jpg",
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "images/Cookies-clipart-2.png",
-    "bg_image_product": "/images/leaf.svg",
+    "bg_image_product": "images/Cookies-clipart-2.png",
     "snipcart_api_key": "OGZhZDYxZDItYWM1Ni00MGUwLWFhMzYtNmNkOGJjOTE5MTQzNjM3NzQyNDg4NDUwMTMzMjI1",
     "palette": "cyan",
     "main_menu": [
