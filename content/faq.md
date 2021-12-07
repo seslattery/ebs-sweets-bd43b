@@ -54,7 +54,7 @@ sections:
     section_id: contact_section
     address: "310 E Ward St\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Milwaukee WI 53207"
     phone: 715-303-8105
-    email: geeks@snipcart.com
+    email: ebs.sweetsllc@gmail.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
   title: FAQ
