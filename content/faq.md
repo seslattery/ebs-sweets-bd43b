@@ -53,7 +53,7 @@ sections:
     image: images/promo.jpg
     section_id: contact_section
     address: "310 E Ward St\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Milwaukee WI 53207"
-    phone: +1-202-555-0112
+    phone: 715-303-8105
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
