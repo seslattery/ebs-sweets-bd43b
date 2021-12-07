@@ -17,7 +17,7 @@ sections:
 
 
       I've loved baking since I was little, and have professionally been baking
-      for 10 years. I enjoy making simple treats to help commemorate all events
+      for 8 years. I enjoy making simple treats to help commemorate all events
       with my family and friends. I'd love to make desserts for you, to help you
       celebrate your happy moments with your family and friends.
   - type: bulletpoints_section
