@@ -1,5 +1,5 @@
 ---
-title: Cookie
+title: 12 Cookies
 layout: category
 order: 2
 seo:
