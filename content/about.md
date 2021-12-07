@@ -5,7 +5,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: images/cookie 1.jpg
+    background_image: images/white fabric.jpg
     headline: Eb's Sweets
     subtitle: >
       Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
