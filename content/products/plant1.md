@@ -1,6 +1,5 @@
 ---
 layout: product
-id: '1'
 price: '2.50'
 title: Chocolate Chip
 description: >-
