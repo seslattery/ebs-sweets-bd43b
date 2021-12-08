@@ -3,9 +3,8 @@ layout: product
 price: '2.50'
 title: Chocolate Chip
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+  Flour, sugar, eggs, butter, vanilla, salt, baking soda, baking powder,
+  chocolate chips.
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
