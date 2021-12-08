@@ -1,7 +1,7 @@
 {
     "title": "Eb's Sweets",
     "favicon": "images/logo-web-transparent-black.png",
-    "logo_dark": "images/logo-web-transparent-black.png",
+    "logo_dark": "images/logo-vector-black.svg",
     "logo_light": "images/logo-vector.svg",
     "hamburger_background_image": "images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
