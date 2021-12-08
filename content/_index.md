@@ -67,7 +67,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Eb's Sweets 1
+      value: Eb's Sweets
       keyName: property
     - name: 'og:description'
       value: The preview of the Planty theme
