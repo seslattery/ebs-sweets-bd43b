@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Oatmeal
 description: lorem-ipsum
-price: lorem-ipsum
+price: '2.50'
 order: 0
 featured: false
 seo:
