@@ -8,18 +8,10 @@ sections:
     background_image: images/white frosting.jpeg
     headline: Eb's Sweets
     subtitle: >
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
-
-
-      I've loved baking since I was little, and have professionally been baking
-      for 8 years. I enjoy making simple treats to help commemorate all events
-      with my family and friends. I'd love to make desserts for you, to help you
-      celebrate your happy moments with your family and friends.
+      ##### I've loved baking since I was little, and have professionally been
+      baking for 8 years. I enjoy making simple treats to help commemorate all
+      events with my family and friends. I'd love to make desserts for you, to
+      help you celebrate your happy moments with your family and friends.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
