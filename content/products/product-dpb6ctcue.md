@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Seasonal
 description: lorem-ipsum
-price: lorem-ipsum
+price: '3.00'
 order: 0
 featured: false
 seo:
