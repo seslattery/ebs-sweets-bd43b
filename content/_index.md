@@ -79,7 +79,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: EB's Sweets 2
+      value: Eb's Sweets 2
     - name: 'twitter:description'
       value: The preview of the Planty theme
     - name: 'twitter:image'
