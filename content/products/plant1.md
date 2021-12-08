@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
-id: chchip
+id: '1'
 ---
 
 # Nulla suscipit
