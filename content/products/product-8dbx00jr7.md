@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Oatmeal
-description: lorem-ipsum
+description: Cookie
 price: '2.50'
 order: 0
 featured: false
