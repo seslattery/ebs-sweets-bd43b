@@ -1,5 +1,4 @@
 ---
-id: Cookie
 title: Oatmeal
 description: Cookie
 price: '2.50'
