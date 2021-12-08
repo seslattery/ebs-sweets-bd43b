@@ -41,8 +41,8 @@
     width: 25%;
   }
   &__logo-image {
-    width: auto;
-    height: auto;
+    width: 35%;
+    height: 35%;
   }
   &__total-items {
     @include smaller-than-tablet {
