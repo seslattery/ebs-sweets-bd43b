@@ -60,7 +60,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: EB's Sweets
+  title: EB's Sweets 0
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
