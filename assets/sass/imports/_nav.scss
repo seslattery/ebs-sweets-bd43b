@@ -42,7 +42,7 @@
   }
   &__logo-image {
     width: auto;
-    height: 35%;
+    height: auto;
   }
   &__total-items {
     @include smaller-than-tablet {
