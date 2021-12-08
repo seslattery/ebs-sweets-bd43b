@@ -27,6 +27,7 @@ sections:
       - content/products/plant5.md
       - content/products/plant7.md
       - content/products/product-v3csc2gaw.md
+      - content/products/product-by1dtl2sw.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
