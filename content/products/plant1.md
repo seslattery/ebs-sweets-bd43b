@@ -5,7 +5,7 @@ title: Chocolate Chip
 description: >-
   Flour, sugar, eggs, butter, vanilla, salt, baking soda, baking powder,
   chocolate chips.
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: images/IMG_7933-5.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
