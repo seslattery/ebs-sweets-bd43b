@@ -10,7 +10,7 @@ seo:
   robots: []
   extra: []
 layout: product
-default_thumbnail_image: images/Cookies-clipart-2.png
+default_thumbnail_image: images/IMG_7895.jpg
 id: '0'
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
