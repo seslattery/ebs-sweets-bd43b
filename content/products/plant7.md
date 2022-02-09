@@ -4,7 +4,7 @@ id: '7'
 price: '2.50'
 title: Chocolate Chocolate Chip
 description: Fusce sed tortor id diam rhoncus accumsan.
-default_thumbnail_image: images/plant7.jpg
+default_thumbnail_image: images/IMG_7919.jpg
 default_original_image: images/plant7-lg.jpg
 order: 7
 category: content/category/bigplants.md
