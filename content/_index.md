@@ -52,7 +52,7 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: All the delicious sweets
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: images/IMG_7950-1841bd7c.jpg
