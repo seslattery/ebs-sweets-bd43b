@@ -4,7 +4,7 @@ id: '6'
 price: '2.50'
 title: Oatmeal
 description: Cras molestie faucibus ipsum ut vulputate.
-default_thumbnail_image: images/plant6.jpg
+default_thumbnail_image: images/IMG_7895_1.jpg
 default_original_image: images/plant6-lg.jpg
 order: 6
 category: content/category/bigplants.md
