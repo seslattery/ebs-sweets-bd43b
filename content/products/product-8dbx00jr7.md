@@ -1,6 +1,6 @@
 ---
 description: Cookie
-price: '2.50'
+price: '2'
 order: 0
 featured: false
 seo:
