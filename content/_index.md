@@ -53,7 +53,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Discover all the delicious sweets
-    image: images/promo.jpg
+    image: images/IMG_7897.jpg
     background_image: images/IMG_7950-1841bd7c.jpg
     cta:
       title: Discover
