@@ -50,7 +50,7 @@ sections:
           the meaning of life? <br /> A: We’re not quite sure. But building
           useful products with people we love feels meaningful enough.
   - type: contact_section
-    image: images/promo.jpg
+    image: images/IMG_7895_1.jpg
     section_id: contact_section
     address: "310 E Ward St\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Milwaukee WI 53207"
     phone: 715-303-8105
