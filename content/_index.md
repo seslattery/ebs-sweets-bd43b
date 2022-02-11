@@ -52,7 +52,7 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: All the delicious sweets
+    title: Discover all the delicious sweets
     image: images/promo.jpg
     background_image: images/IMG_7950-1841bd7c.jpg
     cta:
