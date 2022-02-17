@@ -17,7 +17,7 @@ sections:
         arrow: true
         style: primary
   - type: featured_products_section
-    section_id: best_sellers_section
+    section_id: best_sellers_sectio
     title: Best sellers
     icon: true
     light_title: true
