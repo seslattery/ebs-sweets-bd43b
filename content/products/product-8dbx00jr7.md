@@ -2,7 +2,7 @@
 description: Cookie
 price: '2'
 order: 0
-featured: false
+featured: true
 seo:
   title: ''
   description: ''
