@@ -6,13 +6,13 @@ description: >-
   Flour, sugar, eggs, butter, vanilla, salt, baking soda, baking powder,
   chocolate chips.
 default_thumbnail_image: images/IMG_7933-5.jpg
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/IMG_7933-5.jpg
 featured: true
 order: 1
 category: content/category/bigplants.md
 seo:
   title: Chocolate Chip Cookie
-  description: 'Delicious Chocolate Chip Cookie'
+  description: Delicious Chocolate Chip Cookie
   extra:
     - name: 'og:type'
       value: website
@@ -21,7 +21,7 @@ seo:
       value: Chocolate Chip Cookie
       keyName: property
     - name: 'og:description'
-      value: 'Delicious Chocolate Chip Cookie'
+      value: Delicious Chocolate Chip Cookie
       keyName: property
     - name: 'og:image'
       value: images/plant1-lg.jpg
@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:title'
       value: Chocolate Chip Cookie
     - name: 'twitter:description'
-      value: 'Delicious Chocolate Chip Cookie'
+      value: Delicious Chocolate Chip Cookie
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
