@@ -27,7 +27,7 @@ sections:
           Michael, you’re good.
 
         image: images/IMG_7961.jpg
-      - title: We think plants are the future
+      - title: I also like to decorate cakes
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old. That’s why we help beginners get started with web development
