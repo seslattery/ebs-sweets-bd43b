@@ -28,12 +28,10 @@ sections:
 
         image: images/IMG_7961.jpg
       - title: I also like to decorate cakes
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: >
+          ## A simple cake can make a celebration sweet and memorable. At this
+          moment I will only be doing 6 inch cakes, and they can be delivered or
+          picked up.  Cakes can not be shipped.    
         image: images/IMG_7750-2.jpg
   - type: promotion_section
     section_id: promotion_section
