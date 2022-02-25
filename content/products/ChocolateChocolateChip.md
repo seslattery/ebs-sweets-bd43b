@@ -3,23 +3,23 @@ layout: product
 id: '7'
 price: '2.50'
 title: Chocolate Chocolate Chip
-description: Fusce sed tortor id diam rhoncus accumsan.
+description: Flour, sugar, eggs, butter, vanilla, salt,baking soda, baking powder, chocolate powder, and chocolate chips
 default_thumbnail_image: images/IMG_7919.jpg
 default_original_image: images/plant7-lg.jpg
 order: 7
 category: content/category/bigplants.md
 seo:
-  title: Sed consectetur
-  description: Fusce sed tortor id diam rhoncus accumsan
+  title: Chocolate Chocolate Chip Cookie
+  description: Chocolate Chocolate Chip Cookie
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Sed consectetur
+      value: Chocolate Chocolate Chip Cookie
       keyName: property
     - name: 'og:description'
-      value: Fusce sed tortor id diam rhoncus accumsan
+      value: Chocolate Chocolate Chip Cookie
       keyName: property
     - name: 'og:image'
       value: images/plant7-lg.jpg
@@ -28,14 +28,13 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Sed consectetur
+      value: Chocolate Chocolate Chip Cookie
     - name: 'twitter:description'
-      value: Fusce sed tortor id diam rhoncus accumsan
+      value: Chocolate Chocolate Chip Cookie
     - name: 'twitter:image'
       value: images/plant7-lg.jpg
       relativeUrl: true
 ---
 
-# Sed consectetur
+# Chocolate Chocolate Chip Cookie
 
-Sed consectetur eleifend neque. Morbi fringilla velit neque, quis aliquet diam rutrum eget. Praesent dui leo, iaculis non auctor sed, accumsan at felis. Suspendisse eu pretium justo. Curabitur et velit quis justo elementum iaculis. Fusce sed tortor id diam rhoncus accumsan. In cursus sagittis eros non congue.
