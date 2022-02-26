@@ -16,18 +16,6 @@ sections:
         url: /store
         arrow: true
         style: primary
-  - type: featured_products_section
-    section_id: best_sellers_sectio
-    title: Best sellers
-    icon: true
-    light_title: true
-    featured_products:
-      - content/products/plant1.md
-      - content/products/plant3.md
-      - content/products/plant5.md
-      - content/products/plant7.md
-      - content/products/product-8dbx00jr7.md
-      - content/products/product-dpb6ctcue.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
