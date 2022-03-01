@@ -3,9 +3,11 @@ layout: product
 id: '7'
 price: '2.50'
 title: Chocolate Chocolate Chip
-description: Flour, sugar, eggs, butter, vanilla, salt,baking soda, baking powder, chocolate powder, and chocolate chips
+description: >-
+  Flour, sugar, eggs, butter, vanilla, salt,baking soda, baking powder,
+  chocolate powder, and chocolate chips
 default_thumbnail_image: images/IMG_7919.jpg
-default_original_image: images/plant7-lg.jpg
+default_original_image: images/IMG_7919.jpg
 order: 7
 category: content/category/bigplants.md
 seo:
