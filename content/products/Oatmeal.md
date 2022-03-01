@@ -3,9 +3,9 @@ layout: product
 id: '6'
 price: '2.50'
 title: Oatmeal
-description: Four, sugar, eggs, butter, vanilla, salt, baking soda, oats, cinnamon.
+description: 'Four, sugar, eggs, butter, vanilla, salt, baking soda, oats, cinnamon.'
 default_thumbnail_image: images/IMG_7895_1.jpg
-default_original_image: images/plant6-lg.jpg
+default_original_image: images/IMG_7895.jpg
 order: 6
 category: content/category/bigplants.md
 seo:
