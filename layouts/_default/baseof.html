@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-    <head>    
+    <head>
 
         <title>{{ if .Params.seo.title }}{{ $.Params.seo.title }}{{ else }}{{ print print $.Title " | " $.Site.Data.config.title }}{{ end }}</title>
         <meta charset="UTF-8">
@@ -28,16 +28,28 @@
         {{ if .Site.Data.config.favicon }}
         <link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}">
         {{ end }}
-        
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <script>
+          if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+              if (!user) {
+                window.netlifyIdentity.on("login", () => {
+                  document.location.href = "/admin/";
+                });
+              }
+            });
+          }
+        </script>
+
     </head>
     <body class="{{ .Params.layout }}-template palette-{{ .Site.Data.config.palette }}">
-        
+
         <div class="site-wrapper">
                 {{ $include_dict := dict "page" . "Site" .Site }}
                 {{ partial "header.html" $include_dict }}
-        
+
                 {{ block "content" . }}{{ end }}
-        
+
                 {{ $include_dict = dict "page" . "Site" .Site }}
                 {{ partial "footer.html" $include_dict }}
             </div>
@@ -45,5 +57,5 @@
         <script src="{{ "js/lib/modernizr.js" | relURL }}"></script>
         <script src="{{ "js/main.js" | relURL }}"></script>
         <script src="{{ "js/page_load.js" | relURL }}"></script>
-    </body> 
+    </body>
 </html>
